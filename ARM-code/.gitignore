@@ -1,0 +1,7 @@
+Debug/
+RemoteSystemsTempFiles/
+startup/
+.metadata/
+.settings/
+.project
+.cproject
